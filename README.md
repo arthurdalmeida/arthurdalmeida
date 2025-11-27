@@ -17,7 +17,7 @@
 </p>
 
 <p align="left">
-  <a href="[#](https://mail.google.com/mail/?view=cm&fs=1&to=aao@cesar.school
+  <a href="[#](https://mail.google.com/mail/?view=cm&fs=1&to=mailto:aao@cesar.school
 )" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
   <a href="#" title="LinkedIn">
