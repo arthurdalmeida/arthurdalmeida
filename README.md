@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Oi, meu nome é Arthur e eu sou estudande de ciência da computação na CESAR School.<br>
+  Oi, meu nome é Arthur e eu sou estudande de Ciência da Computação na CESAR School.<br>
 </p>
 
 <p align="left">
