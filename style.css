@@ -4,7 +4,6 @@ body {
     background: #f5f5f5;
 }
 
-/* HEADER */
 header {
     background: #224466;
     color: white;
@@ -45,3 +44,4 @@ header a {
     width: 250px;
     box-shadow: 2px 2px 10px #0002;
 }
+
