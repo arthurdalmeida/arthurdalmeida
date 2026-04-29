@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: Desenvolvo em Python e JavaScript (basics).
+  🦄 Linguagens: Desenvolvo em Python e C.
 </p>
 
 <p align="left">
