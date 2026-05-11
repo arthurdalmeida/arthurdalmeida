@@ -5,15 +5,15 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: Desenvolvo em Python e C.
+  Linguagens: Desenvolvo em Python e C.
 </p>
 
 <p align="left">
-  💼 Ferramentas: VS Code e Arduino IDE.
+  Ferramentas: VS Code e Arduino IDE.
 </p>
 
 <p align="left">
-  💌 Entre em contato comigo em algum desses endereços: 
+  Entre em contato comigo em algum desses endereços: 
 </p>
 
 <p align="left">
